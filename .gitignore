@@ -10,3 +10,10 @@ delombok/
 
 # dumps #
 dumps/*.ec*
+
+### eclipse ###
+.classpath
+.factorypath
+.project
+.settings/
+target/
